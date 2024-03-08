@@ -26,7 +26,7 @@ npm start
 
 ### Dependance
 _______
-Le smart contract est en `solidity` et a été déployer via <a href="https://remix.ethereum.org">Remix - Ethereum IDE</a>.
+Le smart contract est en `solidity` et a été déployer via <a href="https://remix.ethereum.org">Remix - Ethereum IDE</a>.<br>
 Le site xeb utilise les languages/librairies suivantes : `React`, `HTML` et `SCSS`.
 
 ### Authors
